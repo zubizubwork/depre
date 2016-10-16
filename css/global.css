@@ -1888,6 +1888,10 @@ main{
     -webkit-transition: all 3200ms;
     transition: all 3200ms;
 }
+/*.animate .im5{
+ //   -webkit-transition: all 3800ms;
+ //   transition: all 3800ms;
+//}*/
 .animate .im5{
     -webkit-transition: all 3800ms;
     transition: all 3800ms;
